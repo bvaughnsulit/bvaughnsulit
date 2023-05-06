@@ -8,3 +8,5 @@ Some other things about me:
 * I have a dog named Toby. 🐶 <-- and he actually looks like this emoji
 * I use Neovim and enjoy fiddling with [my configs](https://github.com/bvaughnsulit/dotfiles).
 * I build and collect custom mechanical keyboards.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvaughnsulit)](https://github.com/bvaughnsulit/github-readme-stats)
